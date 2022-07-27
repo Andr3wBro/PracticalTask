@@ -29,7 +29,7 @@ string[] NewArray(string[] array)
     return newArray;
 }
 
-string[] array = { "Moscow", "NewYork", "<3", "FBI", "UNO" };
+string[] array = { "Moscow", "NewYork", "<3", "FBI", "UNO" ,"123","love","Andrew","b2b"};
 PrintArray(array);
 string[] newArray = NewArray(array);
 PrintArray(newArray);
